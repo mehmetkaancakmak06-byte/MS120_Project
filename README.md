@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ### 2. Repoyu klonla
 
 ```bash
-git clone https://github.com/KULLANICI_ADIN/egzersiz-oneri
+git clone https://github.com/mehmetkaancakmak06-byte/MS120_Project
 cd egzersiz-oneri
 ```
 
